@@ -1,3 +1,5 @@
+package Arrays;
+
 public class SecondElement
 {
     public static void main(String[] args)
